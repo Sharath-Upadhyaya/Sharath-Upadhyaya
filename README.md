@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## About Me
 
-👋 Hi, I’m @Sharath-Upadhyaya and I am a Staff Engineer with over 19 years of experience in software design, development, and systems architecture. I specialize in creating innovative solutions that enhance product functionality and address complex challenges. My expertise spans a wide range of technologies and platforms, and I am passionate about leading teams to deliver high-quality software solutions.
+👋 Hi, I’m @Sharath-Upadhyaya and I am a Staff Engineer with over 21 years of experience in software design, development, and systems architecture. I specialize in creating innovative solutions that enhance product functionality and address complex challenges. My expertise spans a wide range of technologies and platforms, and I am passionate about leading teams to deliver high-quality software solutions.
 
 ## Skills
 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ## Experience
 
 ### Fortive Staff Engineer, Intelex ULC, Bengaluru
-**December 2022 - Present**
+**December 2022 - June 2026**
 
 - Leveraged Microsoft's prompt flow to enhance SonarCloud issues detection and resolution, resulting in a 55% reduction in development time.
 - Developed REST APIs and microservices using C#.NET, Node.js, and other technologies.
